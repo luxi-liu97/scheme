@@ -35,4 +35,4 @@ scm> 'Hello
 hello
 ```
 
-Source: https://inst.eecs.berkeley.edu/~cs61a/sp21/proj/scheme/#introduction
+Source: https://inst.eecs.berkeley.edu/~cs61a/sp21/proj/scheme/
